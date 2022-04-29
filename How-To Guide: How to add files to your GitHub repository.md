@@ -5,7 +5,7 @@ This sample assumes the user is familiar with the GitHub UI and workflow, which 
 
 That said, I still assume the user is fairly new to GitHub. For most software developers, using the command line interface would make you an advanced user. However, for this audience I considered using GitHub Desktop's push and pull UI to be advanced.
 
-Since [How-To Guides should have some flexibility](https://documentation.divio.com/how-to-guides/), I give solutions for several different platforms.
+Since [How-To Guides should have some flexibility](https://documentation.divio.com/how-to-guides/), I give several solutions.
 
 Thank you for your time. I hope you enjoy the sample below!
 
