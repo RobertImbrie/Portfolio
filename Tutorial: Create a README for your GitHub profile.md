@@ -50,7 +50,7 @@ Let's take a look at the changes we've made.
 
 ## Congratulations!
 
-As you can see, the README text has been added to your profile. You should feel proud! You've learned to:
+You should now see the README text in your profile. You should feel proud! You've learned to:
 
 - Create a repository.
 - Modify files.
