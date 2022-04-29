@@ -105,4 +105,52 @@ Appears as your icon or cover photo with an arrow next to it. Gives you the opti
 
 ## Footer Menu
 
+The footer menu is located at the bottom of the page and contains secondary actions and pages. You can see a picture of it below.
+
 ![https://github.com/RobertImbrie/Portfolio/blob/main/footer.png](https://github.com/RobertImbrie/Portfolio/blob/main/footer.png)
+
+The footer sometimes changes depending on which page you're on. On most pages, the following links will appear from left to right in this order.
+
+### Terms
+
+Contains the GitHub Terms of Service.
+
+### Privacy
+
+Contains the GitHub Privacy Statement, which explains how GitHub uses user data.
+
+### Security
+
+Contains information on GitHub's security and privacy measures.
+
+### Status
+
+Contains information on which parts of GitHub are up-and-running and which parts are not.
+
+### Docs
+
+Contains GitHub's documentation.
+
+### Contact GitHub
+
+Contains GitHub's customer support forms.
+
+### Pricing
+
+Contains GitHub's paid subscription options.
+
+### API
+
+Contains GitHub's API documentation.
+
+### Training
+
+Contains solutions to problems enterprise customers may have when first adopting GitHub, such as migrating data or training team members.
+
+### Blog
+
+Contains GitHub's blog.
+
+### About
+
+Contains pages about GitHub's company and brand.
