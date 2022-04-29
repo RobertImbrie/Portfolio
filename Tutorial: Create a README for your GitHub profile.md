@@ -1,8 +1,6 @@
-# Tutorial: Create a README for your GitHub profile.md
+# Tutorial: Create a README for your GitHub profile
 
-Hi, my name is Robbie Imbrie! You're probably reading this because I've applied for a job at your company. Since most of the documentation I've worked on is internal, I've created these writing samples instead. I've also included notes on my process below.
-
-## My process
+Hi, my name is Robbie Imbrie! You're probably reading this because I've applied for a job at your company. Since most of the documentation I've worked on is internal, I've created these writing samples instead. If you want to know my process, keep reading. Otherwise, you can skip directly to the **Introduction** section.
 
 I started this sample by conducting an audience analysis, during which I determined all four samples would be directed at users who are new to both coding and GitHub. As a result, I've used a friendly, encouraging tone.
 
@@ -16,7 +14,7 @@ Thank you for your time. I hope you enjoy the sample below!
 
 The GitHub profile README is a customizable document that appears on your profile page. You can add text, images, GIFs, or even your Spotify playlist!
 
-In this tutorial, we'll teach you how to make a GitHub profile README. You'll also learn about creating and managing repositories. If that sounds like a lot, don't worry: a repository is just a place where you store files, like a folder on your computer.
+In this tutorial, we'll teach you how to make a GitHub profile README. You'll also learn about creating and managing repositories. If that sounds complicated, don't worry: a repository is just a place where you store files, similar to a folder on your computer.
 
 All you need for this tutorial is a GitHub account. Make sure you're logged in!
 
@@ -24,7 +22,7 @@ All you need for this tutorial is a GitHub account. Make sure you're logged in!
 
 ## Step 2. Create your profile repository
 
-Before we create our README, we need to create a repository to store it.
+Just like you can't make a file on your computer without a folder to store it in, we need a repository before we can make our README.
 
 1. Navigate to the **Repositories** tab on the left side.
 2. Click **New**.
