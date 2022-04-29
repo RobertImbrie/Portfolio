@@ -1,4 +1,4 @@
-# Tutorial: Create a README for your GitHub profile
+# Some notes from the author
 
 Hi, my name is Robbie Imbrie! You're probably reading this because I've applied for a job at your company. Since most of the documentation I've worked on is internal, I've created writing samples instead.
 
@@ -9,6 +9,8 @@ I also assumed these samples would be part of GitHub's existing documentation, w
 Finally, I used several sources for my writing samples. For grammar and formatting, I followed the [Microsoft style guide](https://docs.microsoft.com/en-us/style-guide/welcome/). For appearance, I used [GitHub's guides](https://guides.github.com/activities/hello-world/) as inspiration. For overall structure, I used [Divio's four-part documentation system](https://documentation.divio.com/structure/).
 
 Thank you for your time. I hope you enjoy the sample below!
+
+# Tutorial: Create a README for your GitHub profile
 
 ## Introduction
 
