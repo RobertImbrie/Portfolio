@@ -1,4 +1,4 @@
-# Some notes from the author
+# Tutorial: Create a README for your GitHub profile.md
 
 Hi, my name is Robbie Imbrie! You're probably reading this because I've applied for a job at your company. Since most of the documentation I've worked on is internal, I've created these writing samples instead. I've also included notes on my process below.
 
@@ -12,7 +12,7 @@ Finally, I used several sources for my writing samples. For grammar and formatti
 
 Thank you for your time. I hope you enjoy the sample below!
 
-# Introduction
+## Introduction
 
 The GitHub profile README is a customizable document that appears on your profile page. You can add text, images, GIFs, or even your Spotify playlist!
 
@@ -20,9 +20,9 @@ In this tutorial, we'll teach you how to make a GitHub profile README. You'll al
 
 All you need for this tutorial is a GitHub account. Make sure you're logged in!
 
-# Step 1. Go to the GitHub home page
+## Step 1. Go to the GitHub home page
 
-# Step 2. Create your profile repository
+## Step 2. Create your profile repository
 
 Before we create our README, we need to create a repository to store it.
 
@@ -35,7 +35,7 @@ Before we create our README, we need to create a repository to store it.
 4. Select **Add a README file**.
 5. Click **Create repository**.
 
-# Step 3. Edit the README
+## Step 3. Edit the README
 
 Now that we've made a repository, we need to edit the README document.
 
@@ -43,14 +43,14 @@ Now that we've made a repository, we need to edit the README document.
 2. Change the text to whatever you'd like.
 3. Scroll down and click **Commit changes**.
 
-# Step 4. Visit your profile
+## Step 4. Visit your profile
 
 Let's take a look at the changes we've made.
 
 1. Click the avatar in the upper right hand corner.
 2. Click **Your profile**.
 
-# Congratulations!
+## Congratulations!
 
 As you can see, the README text has been added to your profile. You should feel proud! You've learned to:
 
