@@ -1,8 +1,8 @@
 # Tutorial: Create a README for your GitHub profile
 
-Hi, my name is Robbie Imbrie! You're probably reading this because I've applied for a job at your company. Since most of the documentation I've worked on is internal, I've created these writing samples instead. If you want to know my process, keep reading. Otherwise, you can skip directly to the **Introduction** section.
+Hi, my name is Robbie Imbrie! You're probably reading this because I've applied for a job at your company. Since most of the documentation I've worked on is internal, I've created writing samples instead.
 
-I started this sample by conducting an audience analysis, during which I determined all four samples would be directed at users who are new to both coding and GitHub. As a result, I've used a friendly, encouraging tone.
+I started this sample by conducting an audience analysis. During my analysis, I determined all four samples would be directed at users who are new to both coding and GitHub. As a result, I've used a friendly, encouraging tone.
 
 I also assumed these samples would be part of GitHub's existing documentation, which influenced which information I decided to include. For example, since GitHub's introductory "Hello World" tutorial has a detailed explanation of repositories, I only included a brief summary in my tutorial.
 
