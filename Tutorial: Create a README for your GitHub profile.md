@@ -1,12 +1,16 @@
-Hi, my name is Robbie Imbrie! I'm an aspiring technical writer and I've created these writing samples for my portfolio. I decided to share some notes about my process below.
+# Some notes from the author
 
-After conducting an audience analysis, I determined all four samples would be directed at users who are new to both coding and GitHub. As a result, I've used a friendly, encouraging tone.
+Hi, my name is Robbie Imbrie! You're probably reading this because I've applied for a job at your company. Since most of the documentation I've worked on is internal, I've created these writing samples instead. I've also included notes on my process below.
+
+## My process
+
+I started this sample by conducting an audience analysis, during which I determined all four samples would be directed at users who are new to both coding and GitHub. As a result, I've used a friendly, encouraging tone.
 
 I also assumed these samples would be part of GitHub's existing documentation, which influenced which information I decided to include. For example, since GitHub's introductory "Hello World" tutorial has a detailed explanation of repositories, I only included a brief summary in my tutorial.
 
-I used several sources for my writing samples. For grammar and formatting, I followed the [Microsoft style guide](https://docs.microsoft.com/en-us/style-guide/welcome/). For appearance, I used [GitHub's guides](https://guides.github.com/activities/hello-world/) as inspiration. For overall structure, I used [Divio's four-part documentation system](https://documentation.divio.com/structure/).
+Finally, I used several sources for my writing samples. For grammar and formatting, I followed the [Microsoft style guide](https://docs.microsoft.com/en-us/style-guide/welcome/). For appearance, I used [GitHub's guides](https://guides.github.com/activities/hello-world/) as inspiration. For overall structure, I used [Divio's four-part documentation system](https://documentation.divio.com/structure/).
 
-Thank you for your time. I look forward to hearing from you soon!
+Thank you for your time. I hope you enjoy the sample below!
 
 # Introduction
 
@@ -20,7 +24,7 @@ All you need for this tutorial is a GitHub account. Make sure you're logged in!
 
 # Step 2. Create your profile repository
 
-Like everything in GitHub, making our README starts with making a repository. 
+Before we create our README, we need to create a repository to store it.
 
 1. Navigate to the **Repositories** tab on the left side.
 2. Click **New**.
