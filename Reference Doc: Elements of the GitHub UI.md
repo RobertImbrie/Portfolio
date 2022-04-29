@@ -109,7 +109,9 @@ The footer menu is located at the bottom of the page and contains secondary acti
 
 ![https://github.com/RobertImbrie/Portfolio/blob/main/footer.png](https://github.com/RobertImbrie/Portfolio/blob/main/footer.png)
 
-The footer sometimes changes depending on which page you're on. On most pages, the following links will appear from left to right in this order.
+The footer menu sometimes changes depending on which page you're on. On most pages, the footer menu looks like the image above.
+
+The footer menu elements are described below in left-to-right order.
 
 ### Terms
 
