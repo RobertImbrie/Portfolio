@@ -24,7 +24,7 @@ All you need for this tutorial is a GitHub account. Make sure you're logged in!
 
 ## Step 2. Create your profile repository
 
-Just like you can't make a file on your computer without a folder to store it in, we need a repository before we can make our README.
+Just like you need a folder to store computer files, you need a repository to store your README.
 
 1. Navigate to the **Repositories** tab on the left side.
 2. Click **New**.
