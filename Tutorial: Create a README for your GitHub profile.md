@@ -30,7 +30,7 @@ Just like you need a folder to store computer files, you need a repository to st
 2. Click **New**.
 3. Enter your username under **Repository name**. If your spelling and capitalization are correct, a special message will appear. 
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/507693c9-5dee-482d-aa90-f4dfdcc1339f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/507693c9-5dee-482d-aa90-f4dfdcc1339f/Untitled.png)
+    ![https://github.com/RobertImbrie/Portfolio/blob/main/special_repository.png](https://github.com/RobertImbrie/Portfolio/blob/main/special_repository.png)
 
 4. Select **Add a README file**.
 5. Click **Create repository**.
